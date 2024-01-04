@@ -8,7 +8,8 @@
             "extensions": [
                 "eamodio.gitlens",
                 "streetsidesoftware.code-spell-checker",
-                "ms-vscode.live-server"
+                "ms-vscode.live-server",
+                "ms-toolsai.jupyter"
             ]
         }
     }
